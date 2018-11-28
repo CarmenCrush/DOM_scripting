@@ -25,7 +25,7 @@
     </h1>
   </body>
 </html>
-// JavaScript code
+
 
 function showPic(whichpic) {
 var source = whichpic.getAttribute("href");
